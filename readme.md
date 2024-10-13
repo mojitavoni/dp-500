@@ -39,3 +39,5 @@ Next, there is a set of [whiteboard](/whiteboards/readme.md) for each module.
 - [Module 06: Implement advanced data visualization techniques by using Power BI](/whiteboards/Module-06-Implement-advanced-data-visualization-techniques-by-using-Power-BI.md)
 - [Module 07: Implement and manage an analytics environment](/whiteboards/Module-07-Implement-and-manage-an-analytics-environment.md)
 - [Module 08: Manage the analytics development lifecycle](/whiteboards/Module-08-Manage-the-analytics-development-lifecycle.md)
+
+- Just make sure you are all ON!
